@@ -1,7 +1,6 @@
-'use strict'
-
 var thisWebApp = function(){
-
+	'use strict'
+	
 	function Run(){
 		//Angular
 		var app = angular.module('website', ['ngRoute']);
